@@ -35,10 +35,12 @@ Use the search box, the sort menu and the filter buttons to find what you need.
 Use the button in the top corner to switch between light and dark mode.
 Project structure
 task-manager/
-├── index.html   # Page structure: form, filters, task list
-├── style.css    # Styling, light and dark themes, responsive layout
-├── script.js    # Application logic: state, rendering, storage, events
-└── README.md    # Project description
+task-manager/
+├── index.html # Page structure: form, filters, task list
+├── style.css # Styling, light and dark themes, responsive layout
+├── script.js # Application logic: state, rendering, storage, events
+├── screenshot.png # Screenshot of the app, shown in this README
+└── README.md # Project description
 How it works
 The application keeps all tasks in one JavaScript array (the state).
 Every action (add, edit, delete, complete, filter, search, sort) updates that array and then calls a single render() function, which rebuilds the task list on the page from the current state.
