@@ -2,7 +2,7 @@ Task Manager
 
 A clean, fast task manager that runs entirely in the browser. Add tasks with a due date and priority, track your progress, and pick up exactly where you left off, with no account, no server and no installation.
 
-Live demo: https://osamamohamedgamal57-star.github.io/task-manger/
+Live demo: https://osamamohamedgamal57-star.github.io/task-manager/
 
 ![Task Manager screenshot](screenshot.png)
 Why I built it
