@@ -4,7 +4,7 @@ A clean, fast task manager that runs entirely in the browser. Add tasks with a d
 
 **Live demo:** https://osamamohamedgamal57-star.github.io/task-manger/
 
-<!-- To add a screenshot: upload a file named screenshot.png to this repo, then replace this line with: ![Task Manager screenshot](screenshot.png) -->
+![Task Manager screenshot](screenshot.png)
 
 ## Why I built it
 
